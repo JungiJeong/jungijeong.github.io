@@ -19,4 +19,4 @@ My primary area of interest is computer architecture. Throughput my graduate stu
 Selected Publication
 -----
 1. *Jungi Jeong*, Changhee Jung, PMEM-Spec: Persistent Memory Speculation, Virtual, ASPLOS 2021.
-1. *Jungi Jeong*, Jaewan Hong, Seungryoul Maeng, Changhee Jung, and Youngjin Kwon, Unbounded Hardware Transactional Memory for a Hybrid DRAM/NVM Memory System, Virtual, MICRO 2020. [paper]()
+1. *Jungi Jeong*, Jaewan Hong, Seungryoul Maeng, Changhee Jung, and Youngjin Kwon, Unbounded Hardware Transactional Memory for a Hybrid DRAM/NVM Memory System, Virtual, MICRO 2020.
