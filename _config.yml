@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jungi Jeong"
+title                    : "TowardMoon"
 title_separator          : "-"
 name                     : &name "Jungi Jeong"
 description              : &description "personal description"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Jungi Jeong"
   avatar           : "profile.png"
-  bio              : "Postdoc Researcher"
+  bio              : "Postdoc Researcher @ Purdue"
   location         : "West Lafayette, Indiana"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=2AClkeIAAAAJ&hl=en"
   email            : "jungijeong@purdue.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -210,14 +210,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  #- scope:
+  #    path: ""
+  #    type: teaching
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comments: true
   # _publications
   - scope:
       path: ""
