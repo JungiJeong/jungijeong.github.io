@@ -18,7 +18,6 @@ My primary area of interest is computer architecture. Throughput my graduate stu
 
 # Publications
 ## Conferences
------
 1. **Jungi Jeong** and Changhee Jung, *PMEM-Spec: Persistent Memory Speculation*, ASPLOS 2021.
 1. **Jungi Jeong**, Jaewan Hong, Seungryoul Maeng, Changhee Jung, and Youngjin Kwon, *Unbounded Hardware Transactional Memory for a Hybrid DRAM/NVM Memory System*, MICRO 2020.
 1. **Jungi Jeong**, Chang Hyun Park, Jaehyuk Huh, and Seungryoul Maeng, *Efficient Hardware-assisted Logging with Asynchronous and Direct Update for Persistent Memory*, MICRO 2018.
@@ -26,6 +25,5 @@ My primary area of interest is computer architecture. Throughput my graduate stu
 1. **Jungi Jeong**, Daewoo Lee, and Seungryoul Maeng, *Application-assisted Writeback for Hadoop Clusters*, CLUSTER 2016.
 
 ## Workshops
------
 1. **Jungi Jeong** and Changhee Jung, *PMEM-Spec: Persistent Memory Speculation*, NVMW 2021.
 1. **Jungi Jeong**, Jaewan Hong, Seungryoul Maeng, Changhee Jung, and Youngjin Kwon, *Unbounded Hardware Transactional Memory for a Hybrid DRAM/NVM Memory System*, NVMW 2021.
