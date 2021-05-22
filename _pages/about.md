@@ -27,3 +27,7 @@ My primary area of interest is computer architecture. Throughput my graduate stu
 ## Workshops
 1. **Jungi Jeong** and Changhee Jung, *PMEM-Spec: Persistent Memory Speculation*, NVMW 2021.
 1. **Jungi Jeong**, Jaewan Hong, Seungryoul Maeng, Changhee Jung, and Youngjin Kwon, *Unbounded Hardware Transactional Memory for a Hybrid DRAM/NVM Memory System*, NVMW 2021.
+
+#Professional Services
+* Program Committee
+  * ICCD 2021
