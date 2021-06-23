@@ -31,3 +31,6 @@ My primary area of interest is computer architecture. Throughput my graduate stu
 # Professional Services
 * Program Committee
   * ICCD 2021
+
+* Journal Reviewer
+  * IEEE Computer Architecture Letter (CAL)
